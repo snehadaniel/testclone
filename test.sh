@@ -1,0 +1,3 @@
+
+echo "Today is `date`"
+
